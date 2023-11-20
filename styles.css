@@ -2,7 +2,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: url("../../images/astronaut.jpg");
+    background-image: url("astronaut.jpg");
     background-size: cover;
    
 }
