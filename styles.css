@@ -1,13 +1,6 @@
 * {
     border: 2px solid blue;
 }
-body {
-    margin: 0;
-    padding: 0;
-    background-image: url("https://raw.githubusercontent.com/NxDevop/NxDev.github.io/main/astronaut.jpg");
-    background-size: cover;
-   
-}
 
 header {
     width: 100%;
